@@ -1,0 +1,17 @@
+﻿Build started 2019-05-08 03:05:54 PM.
+     1>Project "D:\Faculty Of Science ASU\Level 3 2018-2019\L3S2\Courses\6.Computer Graphics\project\Group#1\Car\testCGProjects\testCGProjects.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\testCGProjects.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         testCGProjects.vcxproj -> D:\Faculty Of Science ASU\Level 3 2018-2019\L3S2\Courses\6.Computer Graphics\project\Group#1\Car\Debug\testCGProjects.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\testCGProjects.unsuccessfulbuild".
+         Touching "Debug\testCGProjects.lastbuildstate".
+     1>Done Building Project "D:\Faculty Of Science ASU\Level 3 2018-2019\L3S2\Courses\6.Computer Graphics\project\Group#1\Car\testCGProjects\testCGProjects.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
